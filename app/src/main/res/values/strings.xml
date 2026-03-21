@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bashpomo</string>
+    <string name="notification_channel_timer_name">Timer</string>
+    <string name="notification_channel_timer_desc">Shows the current timer status</string>
+    <string name="notification_channel_alert_name">Timer Alert</string>
+    <string name="notification_channel_alert_desc">Alerts when work time is up</string>
+    <string name="notification_time_up_title">Time is up!</string>
+    <string name="notification_time_up_text">Work session ended — overtime running</string>
+    <string name="notification_action_pause">Pause</string>
+    <string name="notification_action_finish">Finish</string>
+    <string name="notification_action_resume">Resume</string>
+    <string name="label_start_work">Start Work</string>
+    <string name="label_start_break">Start Break</string>
+    <string name="label_pause">Pause</string>
+    <string name="label_resume">Resume</string>
+    <string name="label_finish">Finish</string>
+    <string name="label_add_task">Add task…</string>
+    <string name="label_export">Export JSON</string>
+    <string name="label_session_saved">Session saved</string>
+    <string name="label_notification_permission_rationale">Allow notifications to see the timer on the lock screen and control it from there.</string>
+</resources>
